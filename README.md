@@ -2,6 +2,9 @@
 
 ASP.NET Core Blazor WebAssembly - JWT Authentication Example
 
+# Last upated
+
+- 23-04-2024
 
 # Create a global json
 
