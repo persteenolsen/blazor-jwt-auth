@@ -2,7 +2,7 @@
 
 ASP.NET Core Blazor WebAssembly - JWT Authentication Example
 
-# Last upated
+# Last updated
 
 - 23-04-2024
 
